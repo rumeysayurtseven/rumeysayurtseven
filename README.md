@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi! I'm Rumeysa Yurtseven 👋
+I am a student at Boğaziçi University with goals of becoming a Data Analyst and Data Scientist.
+ - **Contact:** 
+ <p>
+  <a href="https://www.linkedin.com/in/rumeysayurtseven/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+</p> 
+
 
 <!--
 **rumeysayurtseven/rumeysayurtseven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
