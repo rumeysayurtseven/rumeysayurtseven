@@ -1,6 +1,6 @@
 ### Hi! I'm Rumeysa Yurtseven 👋
 I am a student at Boğaziçi University with goals of becoming a Data Analyst and Data Scientist.
- - **Contact:** 
+<br> **In order to get in contact:** </br>
  <p>
   <a href="https://www.linkedin.com/in/rumeysayurtseven/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
