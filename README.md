@@ -1,4 +1,8 @@
-
+<div align="center">
+	<br>
+		<img src="good-times.svg">
+	<br>
+</div>
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently studying on data analysis and I am a student at [Boğaziçi University](http://www.boun.edu.tr) \
