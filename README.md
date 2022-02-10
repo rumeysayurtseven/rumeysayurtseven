@@ -16,6 +16,7 @@
 <h3 align="left">Tools:</h3>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/> </a>
 <a href="https://app.patika.dev/rumeysayurtseven" target="blank"><img src="https://uploads-ssl.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo.png" alt="RumeysaYurtseven" height="30" width="30" /> </a>
+<a href="https://www.jupyter.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="30" height="30"/> </a>
 
 </p>
 
