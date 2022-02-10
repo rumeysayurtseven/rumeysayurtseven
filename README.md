@@ -30,7 +30,7 @@ I'm an **Undergrad Student🎓 [Boğaziçi University](http://www.boun.edu.tr)**
 ## ⚡️ A Few Quick Facts
 
 - 🔭 I’m currently working on Data Analysis
-- 🌱 I’m currently learning Python ☕
+- 🌱 I’m currently learning Python libraries to make data more understandable☕
 
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
