@@ -1,5 +1,6 @@
 <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hello! That's <a href="https://github.com/rumeysayurtseven">Rumeysa</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
 </h1>
+<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rumeysayurtseven/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="rumeysayurtseven" height="30" width="30" /></a>
@@ -21,7 +22,7 @@
 </p>
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm an **Undergrad Student🎓 [Boğaziçi University](http://www.boun.edu.tr)** pursuing mathematics. I'm passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+I'm an **Undergrad Student🎓 [Boğaziçi University](http://www.boun.edu.tr)** pursuing mathematics. I'm passionate about learning and working with new tech. I am interested in analyzing and interpreting data that serve a great deal of purpose. <br/><br/>
 
 
 
@@ -30,7 +31,7 @@ I'm an **Undergrad Student🎓 [Boğaziçi University](http://www.boun.edu.tr)**
 
 - 🔭 I’m currently working on Data Analysis
 - 🌱 I’m currently learning Python ☕
-<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
+
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Data Science
