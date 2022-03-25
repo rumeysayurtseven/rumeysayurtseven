@@ -21,8 +21,8 @@
 
 </p>
 
-### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm an **Undergrad Student🎓 [Boğaziçi University](http://www.boun.edu.tr)** pursuing mathematics. I'm passionate about learning and working with new tech. I am interested in analyzing and interpreting data that serve a great deal of purpose. <br/><br/>
+### A little about me:  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+I'm an **Undergrad Student🎓 at [Boğaziçi University](http://www.boun.edu.tr)** pursuing mathematics. I'm passionate about learning and working with new tech. I am interested in analyzing and interpreting data that serve a great deal of purpose. <br/><br/>
 
 
 
